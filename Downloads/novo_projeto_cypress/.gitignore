@@ -1,12 +1,2 @@
-# Node modules
 node_modules/
-
-# Cypress
-cypress/videos/
-cypress/screenshots/
-
-# Logs
-*.log
-
-# Environment variables
-.env
+cypress.env.json
